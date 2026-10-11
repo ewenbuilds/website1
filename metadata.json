@@ -1,0 +1,6 @@
+{
+  "name": "EWENBUILDS.xyz - Engineering Portfolio & Open-Source Repository",
+  "description": "Professional engineering portfolio and open-source project repository featuring native CAD 3D inspection, structured technical documentation, build guides, and download archives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
